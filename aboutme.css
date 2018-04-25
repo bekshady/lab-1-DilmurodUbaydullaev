@@ -1,0 +1,22 @@
+h1,h2 {
+	color: #CD853F;
+}
+p{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 0.875em;
+	font-weight: normal;
+	font-style: 5vw;
+}
+b{
+	color: yellow;
+	font-style: normal;
+	font-family: "Times New Roman", Times, serif;
+}
+a{
+	color: red;
+	font-style: normal;
+	font-family: "Times New Roman", Times, serif;
+}
+body{
+	background-color: #708090;
+}
